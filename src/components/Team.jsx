@@ -29,7 +29,7 @@ const MeetAttorneys = () => {
     <section id="team" className="bg-gray-50 py-16 px-6 md:px-20">
       <div className="container mx-auto text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
-          🧑‍💼 Meet Your <span className="text-yellow-600">Attorneys</span>
+          Meet Your <span className="text-yellow-600">Attorneys</span>
         </h2>
         <p className="text-gray-700 mt-4 max-w-2xl mx-auto text-lg">
           Our experienced team of lawyers is dedicated to providing exceptional legal services tailored to your needs.
